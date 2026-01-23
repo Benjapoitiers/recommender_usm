@@ -1,0 +1,12 @@
+streamlit
+pandas 
+pyalex
+pyalex 
+scikit-learn
+numpy
+requests
+wordcloud
+matplotlib
+openpyxl
+
+
