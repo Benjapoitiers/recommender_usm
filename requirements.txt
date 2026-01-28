@@ -1,0 +1,11 @@
+streamlit
+pandas
+pyalex
+scikit-learn
+numpy
+requests
+wordcloud
+matplotlib
+openpyxl
+networkx
+pyvis
